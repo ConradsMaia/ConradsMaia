@@ -2,8 +2,8 @@
 
 
    <div>
- <img align= lefth src= "https://github-readme-stats.vercel.app/api?username=ConradsMaia&theme=blue-green">
-<img align= right src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ConradsMaia&theme=blue-green">
+ <img align= lefth src= "https://github-readme-stats.vercel.app/api?username=ConradsMaia&theme=blue-green" height="180em">
+<img align= right src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ConradsMaia&theme=blue-green" height="180em">
 </div>
 <div>
 <img align= left src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
