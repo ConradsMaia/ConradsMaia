@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-
+<a href="mailto:conrado.alves1993@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.instagram.com/conrado_alves_maia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.facebook.com/Conradooooo/?viewas=100000686899395&show_switched_toast=0&show_switched_tooltip=0&show_podcast_settings=0" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/conradomaia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
